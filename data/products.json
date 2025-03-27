@@ -1,0 +1,20 @@
+[
+    {
+      "id": "crbapex",
+      "name": "CRB Apex Legends",
+      "game": "Apex Legends",
+      "description": "CERBERUS - проверенный и стабильный софт для Apex. AIM, ESP, MISC и многое другое.",
+      "price": "249",
+      "preview": "images/product/apex.jpg",
+      "status": "Updated"
+    },
+    {
+      "id": "crbrust",
+      "name": "CRB Rust",
+      "game": "Rust",
+      "description": "Мощный функционал для Rust: wallhack, aim, item ESP и многое другое.",
+      "price": "399",
+      "preview": "images/product/rust.jpg",
+      "status": "Updated"
+    }
+  ]
